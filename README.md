@@ -1,2 +1,5 @@
-# Modeling_RETREAT2020
-Results of Modeling Group in RETREAT GRBIO 2020 
+# RETREAT GRBIO 2020
+
+There are two files:
+1) Slides with the main results
+2) The R code to analyze the data 
